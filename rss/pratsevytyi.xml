@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-01T19:04:37+00:00</updated>
+  <updated>2023-05-07T18:48:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7228290596283141381</id>
-    <title>#відповідь користувачу @Максим Заруба чи може мама інвалід вивезти обох синів #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
-    <updated>2023-05-01T18:59:15+00:00</updated>
-    <content>#відповідь користувачу @Максим Заруба чи може мама інвалід вивезти обох синів #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7228290596283141381" rel="alternate"/>
-    <published>2023-05-01T18:59:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7228290890798812421</id>
     <title>#відповідь користувачу @pasim045 чи зобовязані обмежено придатного перевести до іншої частини #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
@@ -51,5 +43,13 @@
     <content>#відповідь користувачу @helga як можна виїхати закордон через фоп #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
     <link href="https://tiktok.com/@pratsevytyi/video/7228291975299009797" rel="alternate"/>
     <published>2023-05-01T19:04:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7230514253545917702</id>
+    <title>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</title>
+    <updated>2023-05-07T18:48:11+00:00</updated>
+    <content>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7230514253545917702" rel="alternate"/>
+    <published>2023-05-07T18:48:11+00:00</published>
   </entry>
 </feed>
