@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-08T13:52:56+00:00</updated>
+  <updated>2023-05-08T15:05:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7230719660277173509</id>
-    <title>Відповідь користувачу @Александр Кирсанов як розвірвати шлюб без військового квитка? #Консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
-    <updated>2023-05-08T08:05:17+00:00</updated>
-    <content>Відповідь користувачу @Александр Кирсанов як розвірвати шлюб без військового квитка? #Консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7230719660277173509" rel="alternate"/>
-    <published>2023-05-08T08:05:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7230722001927703814</id>
     <title>Відповідь користувачу @Sofa пропустили строки на прийняття спадщини через війну #спадщина #наследство #спадковий_адвокат #наследственный_адвокат #сроки #смерть #нотариус #строки #завещание #заповіт #адвокат  #юрист #юрконсалт #запоріжжя #україна #підписка</title>
@@ -51,5 +43,13 @@
     <content>#відповідь користувачу @Сергій Лисогор347 які документи потрібні для відстрочки батько 1 група інвалідності #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
     <link href="https://tiktok.com/@pratsevytyi/video/7230809256000310533" rel="alternate"/>
     <published>2023-05-08T13:52:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7230827842043399429</id>
+    <title>#відповідь користувачу @Ірина Пяткова945 закон 8009 про звільнення контрактників якщо рідний загинув на війні #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #</title>
+    <updated>2023-05-08T15:05:04+00:00</updated>
+    <content>#відповідь користувачу @Ірина Пяткова945 закон 8009 про звільнення контрактників якщо рідний загинув на війні #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7230827842043399429" rel="alternate"/>
+    <published>2023-05-08T15:05:04+00:00</published>
   </entry>
 </feed>
