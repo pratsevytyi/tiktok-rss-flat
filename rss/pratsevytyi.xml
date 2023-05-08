@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-08T15:05:04+00:00</updated>
+  <updated>2023-05-08T17:02:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7230722001927703814</id>
-    <title>Відповідь користувачу @Sofa пропустили строки на прийняття спадщини через війну #спадщина #наследство #спадковий_адвокат #наследственный_адвокат #сроки #смерть #нотариус #строки #завещание #заповіт #адвокат  #юрист #юрконсалт #запоріжжя #україна #підписка</title>
-    <updated>2023-05-08T08:14:22+00:00</updated>
-    <content>Відповідь користувачу @Sofa пропустили строки на прийняття спадщини через війну #спадщина #наследство #спадковий_адвокат #наследственный_адвокат #сроки #смерть #нотариус #строки #завещание #заповіт #адвокат  #юрист #юрконсалт #запоріжжя #україна #підписка #ukraine   #ua </content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7230722001927703814" rel="alternate"/>
-    <published>2023-05-08T08:14:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7230723633654615302</id>
     <title>#відповідь користувачу @Margo як отримати консультацію адвоката по іпотеці та кредиту #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит #адвокат_по_кредитам #кредитный_адвокат #кредитний_адвокат #борг #банк #кредитор #колекто</title>
@@ -51,5 +43,13 @@
     <content>#відповідь користувачу @Ірина Пяткова945 закон 8009 про звільнення контрактників якщо рідний загинув на війні #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
     <link href="https://tiktok.com/@pratsevytyi/video/7230827842043399429" rel="alternate"/>
     <published>2023-05-08T15:05:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7230858091477191941</id>
+    <title>#відповідь користувачу @natali відпустка на період лікування матері #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
+    <updated>2023-05-08T17:02:28+00:00</updated>
+    <content>#відповідь користувачу @natali відпустка на період лікування матері #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7230858091477191941" rel="alternate"/>
+    <published>2023-05-08T17:02:28+00:00</published>
   </entry>
 </feed>
