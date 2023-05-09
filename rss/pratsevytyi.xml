@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-09T15:36:17+00:00</updated>
+  <updated>2023-05-09T18:21:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7231155932082736389</id>
-    <title>#відповідь користувачу @NikXp звільнення зятя з ЗСУ якщо син вже використав право на відстрочку #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
-    <updated>2023-05-09T12:18:12+00:00</updated>
-    <content>#відповідь користувачу @NikXp звільнення зятя з ЗСУ якщо син вже використав право на відстрочку #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7231155932082736389" rel="alternate"/>
-    <published>2023-05-09T12:18:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7231160167906299142</id>
     <title>#відповідь користувачу @user8191425234418 звільнення чоловіка якщо дружина також військовослужбовець #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
@@ -51,5 +43,13 @@
     <content>#відповідь користувачу @sasha92kо переведення обмежено придатних #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
     <link href="https://tiktok.com/@pratsevytyi/video/7231206974879223046" rel="alternate"/>
     <published>2023-05-09T15:36:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7231249657551179014</id>
+    <title>#відповідь користувачу @sergsh62 виїзд закордон якщо є компенсація за здійснення догляду #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
+    <updated>2023-05-09T18:21:56+00:00</updated>
+    <content>#відповідь користувачу @sergsh62 виїзд закордон якщо є компенсація за здійснення догляду #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7231249657551179014" rel="alternate"/>
+    <published>2023-05-09T18:21:56+00:00</published>
   </entry>
 </feed>
