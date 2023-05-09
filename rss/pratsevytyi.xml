@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-09T06:23:04+00:00</updated>
+  <updated>2023-05-09T07:42:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7230881663084121349</id>
-    <title>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</title>
-    <updated>2023-05-08T18:33:55+00:00</updated>
-    <content>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7230881663084121349" rel="alternate"/>
-    <published>2023-05-08T18:33:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7230893727450025222</id>
     <title>#відповідь користувачу @Виктория Латышова656 якщо син інвалід 2 групи #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
@@ -51,5 +43,13 @@
     <content>#відповідь користувачу @ab77160 відстрочка якщо є лкк на маму #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
     <link href="https://tiktok.com/@pratsevytyi/video/7231064406589820166" rel="alternate"/>
     <published>2023-05-09T06:23:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7231084776910753029</id>
+    <title>#відповідь користувачу @user1457313947814 відстрочка якщо бабуся перенесла інсульт #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
+    <updated>2023-05-09T07:42:09+00:00</updated>
+    <content>#відповідь користувачу @user1457313947814 відстрочка якщо бабуся перенесла інсульт #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7231084776910753029" rel="alternate"/>
+    <published>2023-05-09T07:42:09+00:00</published>
   </entry>
 </feed>
