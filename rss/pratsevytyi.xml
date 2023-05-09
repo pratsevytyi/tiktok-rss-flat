@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-09T05:22:21+00:00</updated>
+  <updated>2023-05-09T06:23:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7230873945237409030</id>
-    <title>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</title>
-    <updated>2023-05-08T18:03:58+00:00</updated>
-    <content>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7230873945237409030" rel="alternate"/>
-    <published>2023-05-08T18:03:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7230881663084121349</id>
     <title>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</title>
@@ -51,5 +43,13 @@
     <content>#відповідь користувачу @userhmxsnmza2b відстрочка для денної форми навчання #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
     <link href="https://tiktok.com/@pratsevytyi/video/7231048759923232005" rel="alternate"/>
     <published>2023-05-09T05:22:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7231064406589820166</id>
+    <title>#відповідь користувачу @ab77160 відстрочка якщо є лкк на маму #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
+    <updated>2023-05-09T06:23:04+00:00</updated>
+    <content>#відповідь користувачу @ab77160 відстрочка якщо є лкк на маму #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7231064406589820166" rel="alternate"/>
+    <published>2023-05-09T06:23:04+00:00</published>
   </entry>
 </feed>
