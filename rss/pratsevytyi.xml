@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-10T16:17:44+00:00</updated>
+  <updated>2023-05-10T18:14:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7231429531637320966</id>
-    <title>#відповідь користувачу @Николай захворів на діабет під час служби #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
-    <updated>2023-05-10T06:00:01+00:00</updated>
-    <content>#відповідь користувачу @Николай захворів на діабет під час служби #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7231429531637320966" rel="alternate"/>
-    <published>2023-05-10T06:00:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7231517507046165765</id>
     <title>Українцям почали масово арештовувати рахунки та картки  #арешт #заблокуваликартку #Кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит #адвокат_по_кредитам #кредитный_адвокат #кредитний_адвокат #борг #банк #кредитор #колектор #с</title>
@@ -51,5 +43,13 @@
     <content>Які на сьогодні є підстави для зняття арешту з рахунку чи картки? #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит</content>
     <link href="https://tiktok.com/@pratsevytyi/video/7231588738995031302" rel="alternate"/>
     <published>2023-05-10T16:17:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7231618927703428357</id>
+    <title>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</title>
+    <updated>2023-05-10T18:14:54+00:00</updated>
+    <content>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7231618927703428357" rel="alternate"/>
+    <published>2023-05-10T18:14:54+00:00</published>
   </entry>
 </feed>
