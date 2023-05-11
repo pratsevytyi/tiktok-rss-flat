@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-11T08:02:40+00:00</updated>
+  <updated>2023-05-11T18:20:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7231518345768619269</id>
-    <title>Як дозволити зняття з арештованої картки 13400 грн в місяць по завершеному виконавчому провадженні #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит #адвокат_по_кредитам #кредитный_адвокат #кредитний_адвокат #борг #банк #кред</title>
-    <updated>2023-05-10T11:44:36+00:00</updated>
-    <content>Як дозволити зняття з арештованої картки 13400 грн в місяць по завершеному виконавчому провадженні #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит #адвокат_по_кредитам #кредитный_адвокат #кредитний_адвокат #борг #банк #кредитор #колектор #суд #заборгованість #розписка #расписка #долг #задолженность #консультация #консультація #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ukraine #ua </content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7231518345768619269" rel="alternate"/>
-    <published>2023-05-10T11:44:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7231583738637896966</id>
     <title>Для зняття арешту з карток треба надати інформацію з ДІЇ #кредит #іпотека #ипотека #мфо #онлайн_кредит #арешт_на_картку</title>
@@ -51,5 +43,13 @@
     <content>Зразок заяви для розблокування рахунку на 13 400 грн. #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит</content>
     <link href="https://tiktok.com/@pratsevytyi/video/7231832238260768005" rel="alternate"/>
     <published>2023-05-11T08:02:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7231991552644549894</id>
+    <title>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</title>
+    <updated>2023-05-11T18:20:54+00:00</updated>
+    <content>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7231991552644549894" rel="alternate"/>
+    <published>2023-05-11T18:20:54+00:00</published>
   </entry>
 </feed>
