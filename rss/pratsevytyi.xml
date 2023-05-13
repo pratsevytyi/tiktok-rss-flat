@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-13T01:39:39.607941+00:00</updated>
+  <updated>2023-05-12T08:03:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7231618927703428357</id>
+    <title>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</title>
+    <updated>2023-05-10T18:14:54+00:00</updated>
+    <content>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7231618927703428357" rel="alternate"/>
+    <published>2023-05-10T18:14:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7231628198499339525</id>
+    <title>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</title>
+    <updated>2023-05-10T18:50:53+00:00</updated>
+    <content>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7231628198499339525" rel="alternate"/>
+    <published>2023-05-10T18:50:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7231832238260768005</id>
+    <title>Зразок заяви для розблокування рахунку на 13 400 грн. #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит</title>
+    <updated>2023-05-11T08:02:40+00:00</updated>
+    <content>Зразок заяви для розблокування рахунку на 13 400 грн. #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит</content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7231832238260768005" rel="alternate"/>
+    <published>2023-05-11T08:02:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7231991552644549894</id>
+    <title>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</title>
+    <updated>2023-05-11T18:20:54+00:00</updated>
+    <content>#військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine</content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7231991552644549894" rel="alternate"/>
+    <published>2023-05-11T18:20:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7232203610770181382</id>
+    <title>Виконавці масово відмовляють в знятті арештів #арешт #рахунок #заблокуваликартку #монобанкарешт #заблокувализарплату #арештзарплати #монобанк #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит #адвокат_по_кредитам #кредитный_а</title>
+    <updated>2023-05-12T08:03:45+00:00</updated>
+    <content>Виконавці масово відмовляють в знятті арештів #арешт #рахунок #заблокуваликартку #монобанкарешт #заблокувализарплату #арештзарплати #монобанк #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит #адвокат_по_кредитам #кредитный_адвокат #кредитний_адвокат #борг #банк #кредитор #колектор #суд #заборгованість #розписка #расписка #долг #задолженность #консультация #консультація #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ukraine #ua </content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7232203610770181382" rel="alternate"/>
+    <published>2023-05-12T08:03:45+00:00</published>
+  </entry>
 </feed>
