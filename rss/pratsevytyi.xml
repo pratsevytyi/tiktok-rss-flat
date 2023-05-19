@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-19T10:46:16+00:00</updated>
+  <updated>2023-05-19T11:37:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7234558999079832837</id>
-    <title>#відповідь користувачу @user7490045969079 як розірвати шлюб якщо закордоном #консультація #розірванняшлюбуонлайн #розірвання_шлюбу #расторжениебракавсуде #шлюбзіноземцем #шлюбнийдоговір #сімейнийадвокат #адвокат #юрист #юрконсалт #запоріжжя #україна #підп</title>
-    <updated>2023-05-18T16:23:52+00:00</updated>
-    <content>#відповідь користувачу @user7490045969079 як розірвати шлюб якщо закордоном #консультація #розірванняшлюбуонлайн #розірвання_шлюбу #расторжениебракавсуде #шлюбзіноземцем #шлюбнийдоговір #сімейнийадвокат #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7234558999079832837" rel="alternate"/>
-    <published>2023-05-18T16:23:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7234559317687536902</id>
     <title>#відповідь користувачу @Петя Климович виізд з братом інвалідом 2 групи #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
@@ -51,5 +43,13 @@
     <content>Безкоштовне зняття арешту з рахунків та зарплати #арешт #виконавець #зарплата #рахунок #банк #заблокували #блокування #арест #счет</content>
     <link href="https://tiktok.com/@pratsevytyi/video/7234843091579030790" rel="alternate"/>
     <published>2023-05-19T10:46:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7234856213937147142</id>
+    <title>Відповідь користувачу @миша #арешт #виконавець #виконавець #рахунок #счет #адвокат #банк </title>
+    <updated>2023-05-19T11:37:15+00:00</updated>
+    <content>Відповідь користувачу @миша #арешт #виконавець #виконавець #рахунок #счет #адвокат #банк </content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7234856213937147142" rel="alternate"/>
+    <published>2023-05-19T11:37:15+00:00</published>
   </entry>
 </feed>
