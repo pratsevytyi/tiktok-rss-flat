@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-05-26T10:05:46+00:00</updated>
+  <updated>2023-05-26T12:59:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7237428294168235269</id>
-    <title>#відповідь користувачу @Оксана-Олександр Беген відстрочка теща 2 група #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
-    <updated>2023-05-26T09:58:11+00:00</updated>
-    <content>#відповідь користувачу @Оксана-Олександр Беген відстрочка теща 2 група #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7237428294168235269" rel="alternate"/>
-    <published>2023-05-26T09:58:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7237428459864198405</id>
     <title>#відповідь користувачу @Dima пройшов влк в 25 років #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
@@ -51,5 +43,13 @@
     <content>#відповідь користувачу @Yulka  Rarich: перетин кордону є дитина інвалід #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
     <link href="https://tiktok.com/@pratsevytyi/video/7237430246360812805" rel="alternate"/>
     <published>2023-05-26T10:05:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7237475023567588614</id>
+    <title>#відповідь користувачу @Маряна Черненко як подати відзив на позов #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит #адвокат_по_кредитам #кредитный_адвокат #кредитний_адвокат #борг #банк #кредитор #колектор #суд #заборгованіс</title>
+    <updated>2023-05-26T12:59:31+00:00</updated>
+    <content>#відповідь користувачу @Маряна Черненко як подати відзив на позов #кредит #іпотека #ипотека #мфо #онлайн_кредит #валютний_кредит #валютный_кредит #адвокат_по_кредитам #кредитный_адвокат #кредитний_адвокат #борг #банк #кредитор #колектор #суд #заборгованість #розписка #расписка #долг #задолженность #консультация #консультація #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ukraine #ua </content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7237475023567588614" rel="alternate"/>
+    <published>2023-05-26T12:59:31+00:00</published>
   </entry>
 </feed>
