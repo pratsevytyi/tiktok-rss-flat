@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pratsevytyi</id>
   <title>pratsevytyi TikTok</title>
-  <updated>2023-06-01T14:52:12+00:00</updated>
+  <updated>2023-06-05T15:26:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pratsevytyi</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pratsevytyi/video/7238477922229587206</id>
-    <title>#відповідь користувачу @Омельченко Сергій Юрійович чи можна проводити відеофіксацію проходження влк #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
-    <updated>2023-05-29T05:51:17+00:00</updated>
-    <content>#відповідь користувачу @Омельченко Сергій Юрійович чи можна проводити відеофіксацію проходження влк #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
-    <link href="https://tiktok.com/@pratsevytyi/video/7238477922229587206" rel="alternate"/>
-    <published>2023-05-29T05:51:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pratsevytyi/video/7238478097237019909</id>
     <title>#відповідь користувачу @Омельченко Сергій Юрійович як написати скаргу на командира #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </title>
@@ -51,5 +43,13 @@
     <content>Військовим блокують зарплатні рахунки. Як зняти арешт з картки військовослужбовця #консультація #військомат #тцк #відстрочка #мобілізація #повістка #зсу #всу #війна #адвокат #юрист #юрконсалт #запоріжжя #україна #підписка #ua #ukraine </content>
     <link href="https://tiktok.com/@pratsevytyi/video/7239730571843243270" rel="alternate"/>
     <published>2023-06-01T14:52:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pratsevytyi/video/7241223762148969734</id>
+    <title>#арешт #заява #розблокуваннярахунку #арештрахунку #знятиарешт #розблокуватизарплату #арешткартки #виконавчийнапис #банк #картка #зарплата</title>
+    <updated>2023-06-05T15:26:33+00:00</updated>
+    <content>#арешт #заява #розблокуваннярахунку #арештрахунку #знятиарешт #розблокуватизарплату #арешткартки #виконавчийнапис #банк #картка #зарплата</content>
+    <link href="https://tiktok.com/@pratsevytyi/video/7241223762148969734" rel="alternate"/>
+    <published>2023-06-05T15:26:33+00:00</published>
   </entry>
 </feed>
